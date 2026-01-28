@@ -5,6 +5,7 @@ body {
             color: #e0e0e0;
             line-height: 1.6;
         }
+        
 
         header {
             background: linear-gradient(to right, #2e2e2e, #1b1b1b);
@@ -60,4 +61,5 @@ body {
             color: #777;
             font-size: 0.9em;
         }
+        
    
